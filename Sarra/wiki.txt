@@ -1,0 +1,1 @@
+﻿Good [Greeting.timeofday] [Greeting.Name]. The time is [Greeting.readabletime] Its currently [Weather.current]. 
